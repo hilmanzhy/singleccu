@@ -1,0 +1,12 @@
+####### requirements.txt #######
+requests
+pymongo==3.5.0
+python-socketio[client]
+pyasn1
+ndg-httpsclient
+configparser
+hostapd
+dns-masq
+flask-socketio
+wget
+zipfile36

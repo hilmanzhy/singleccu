@@ -1,0 +1,19 @@
+[USER_CONF]
+user_id = NULL
+device_id = NULL
+device_name = NULL
+total_pin = 10
+
+[DEVICE_CONF]
+dir = /home/pi/sitamoto/
+py = python
+
+[MONGO_CONF]
+dbs = sitamoto
+host = mongodb://localhost:27017/
+
+[BACKUP_DATA]
+backup = 0
+
+[UPGRADE_FIRMWARE]
+firmware = NULL
